@@ -45,7 +45,7 @@ export default function Register() {
 
       if (res.ok) {
         localStorage.setItem('token', data.token)
-        router.push('/profile')
+        router.push('/books')
       } else {
         setError(data.message || 'Registration failed')
       }

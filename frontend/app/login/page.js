@@ -26,7 +26,7 @@ export default function Login() {
 
       if (res.ok) {
         localStorage.setItem('token', data.token)
-        router.push('/profile')
+        router.push('/books')
       } else {
         setError(data.message || 'Login failed')
       }

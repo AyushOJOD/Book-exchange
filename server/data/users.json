@@ -5,5 +5,26 @@
     "email": "test374@example.com",
     "password": "test",
     "role": "owner"
+  },
+  {
+    "id": 1744566273988,
+    "name": "Test User",
+    "email": "test277@example.com",
+    "password": "123",
+    "role": "owner"
+  },
+  {
+    "id": 1744566325283,
+    "name": "Test User",
+    "email": "test372@example.com",
+    "password": "123",
+    "role": "owner"
+  },
+  {
+    "id": 1744566355939,
+    "name": "Test User",
+    "email": "test390@example.com",
+    "password": "123",
+    "role": "owner"
   }
 ]
