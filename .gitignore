@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime
+pids
+*.pid
+*.pid.lock
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+
+# IDE/Editor folders
+.vscode/
+.idea/
+
+# Build/output (in case you compile or use dist)
+dist/
+
+# Data storage (optional: comment out if you want to version them)
+data/users.json
+data/books.json
