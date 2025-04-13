@@ -5,7 +5,7 @@ import { useRouter ,useParams} from 'next/navigation'
 import CustomButton from '../../../../components/custom-button'
 import FadeWrapper from '../../../../components/fade-wrapper'
 import Loader from '../../../../components/loader'
-const API_URL = 'http://localhost:3001/api/books'
+const API_URL = 'https://book-exchange-k5pu.onrender.com/api/books'
 
 export default function EditBook() {
   const params = useParams()
